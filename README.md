@@ -1,0 +1,2 @@
+# Disease-prediction
+Predict Disease 
